@@ -1,0 +1,28 @@
+<!doctype html>
+
+<html>
+
+    <head>
+
+        <style>
+
+            div {
+
+                color: #ff0000;
+                height: 350px;
+                width: 240px;
+            }
+
+
+        </style>
+
+    </head>
+
+
+    <body>
+
+        <div></div>
+
+    </body>
+
+</html>
